@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ウツシヨノユメ",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T14:57:34.263438Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウツシヨノユメ",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/01_ウツシヨノユメ_nano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ウツシヨノユメ",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/02_ウツシヨノユメ_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ウツシヨノユメ (Instrumental ver.)",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/03_ウツシヨノユメ_(Instrumental_ver.)_nano.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ウツシヨノユメ Instrumental ver.",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/04_ウツシヨノユメ_Instrumental_ver._nano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ウツシヨノユメ (Instrumental ver.)",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/05_ウツシヨノユメ_(Instrumental_ver.)_ナノ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウツシヨノユメ",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_ウツシヨノユメ_ナノ.txt"
+    }
+  ]
+}
